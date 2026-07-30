@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# Curriculo
 ## Bruno Vascon
 ### Currículo em HTML
 ```html
